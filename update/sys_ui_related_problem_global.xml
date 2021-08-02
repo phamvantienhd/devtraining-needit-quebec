@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="problem" version="2" view="global">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>46b1c90c2f313010351b57892799b69a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>incident.problem_id</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>4ab1c90c2f313010351b57892799b69a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>4eb1c90c2f313010351b57892799b69a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>task_service_offering.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>42b1c90c2f313010351b57892799b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>problem_task.problem</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>46b1c90c2f313010351b57892799b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>change_request.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>4ab1c90c2f313010351b57892799b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>problem.duplicate_of</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>4eb1c90c2f313010351b57892799b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>task_outage.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>42b1c90c2f313010351b57892799b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Problem - Global" name="problem" related_list="NULL" sys_domain="global" view="b1b17b829333310063d3941e867ffbdf">8ab1c90c2f313010351b57892799b699</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>m2m_kb_task.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_id>46b1c90c2f313010351b57892799b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Problem - Global</calculated_name>
+            <filter/>
+            <name>problem</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-01 04:08:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ab1c90c2f313010351b57892799b699</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Problem - Global</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_problem_global</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-01 04:08:55</sys_updated_on>
+            <sys_user/>
+            <view display_value="Global" name="global">b1b17b829333310063d3941e867ffbdf</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
